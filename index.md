@@ -3,8 +3,7 @@
 ![Image of](https://marmelab.com/images/blog/ascii-art-converter/homer.png)
 
 ```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+console.log("Hello World!");
 ```
 
 - [ ] Turn on GitHub Pages
